@@ -76,12 +76,12 @@ Where:
 |-------------|---------|------|-----------------|
 | Gaia wide binaries | 0.281 ± 0.003 | Zone 1 | Structurally stable |
 | Heartbeat stars | 0.167 ± 0.086 | Zone 1 | Structurally stable |
-| Triple systems | 0.446 ± 0.143 | Zone 2 | Active evolutionary |
+| Triple systems | 0.446 ± 0.143 | Zone 2 | Coupled developmental |
 | KOI-54 | 0.57 | Zone 2 (upper) | Pre-transitional |
 
 **Zone Definitions:**
 - **Zone 1 (κ < 0.35):** Structurally stable — gravity/structure dominates, predictable evolution
-- **Zone 2 (0.35 ≤ κ < 0.65):** Active evolutionary — balanced S-R coupling, productive dynamics
+- **Zone 2 (0.35 ≤ κ < 0.65):** Coupled developmental — balanced S-R coupling, sustainable change
 - **Zone 3 (κ ≥ 0.65):** Pre-transitional — dynamics dominate, cycling behavior expected
 
 See [docs/ZONE_CLASSIFICATIONS.md](docs/ZONE_CLASSIFICATIONS.md) for details.

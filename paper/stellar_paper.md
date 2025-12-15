@@ -194,11 +194,11 @@ All constants derive from first principles. No free parameters.
 The coupling parameter defines dynamical regimes:
 
 Zone 1 (κ < 0.35): Structurally stable — gravity/structure dominates, predictable evolution
-Zone 2 (0.35 ≤ κ < 0.65): Active evolutionary — balanced S-R coupling, productive dynamics
+Zone 2 (0.35 ≤ κ < 0.65): Coupled developmental — balanced S-R coupling, sustainable change
 Zone 3 (κ ≥ 0.65): Pre-transitional — dynamics dominate, cycling behavior expected
 
 Heartbeat stars: κ = 0.167 ± 0.086 (Zone 1, structurally stable)
-Triple stars: κ = 0.446 ± 0.143 (Zone 2, active evolutionary)
+Triple stars: κ = 0.446 ± 0.143 (Zone 2, coupled developmental)
 Gaia wide binaries: κ = 0.281 ± 0.003 (Zone 1, structurally stable)
 
 5.2.1. Thermal Relaxation Oscillations — Independent Confirmation
