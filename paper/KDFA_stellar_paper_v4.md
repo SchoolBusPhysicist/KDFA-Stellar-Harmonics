@@ -7,7 +7,7 @@ A Real-Number Coupling Framework with Neutrino and Number-Theoretic Validation
 Jason A. King
 
 Independent Researcher, Missouri, USA
-email: [to be added]
+GitHub: https://github.com/SchoolBusPhysicist/KDFA-Stellar-Harmonics
 
 Received; accepted
 
@@ -258,6 +258,15 @@ Neutrino cascades (statistical "fluid"): Confirmed (D₂ = 1.495)
 Earth seismology (solid elastic): Confirmed absent
 
 The pattern requires: (1) fluid dynamics with continuous flow, (2) active energy transport via convection, and (3) sustained non-equilibrium maintaining generative-zone coupling. This constrains the framework's domain of applicability to fluid dynamical systems, which is consistent with its theoretical foundation in S-R coupling dynamics.
+
+Data Availability
+
+All analysis scripts and data are available at: https://github.com/SchoolBusPhysicist/KDFA-Stellar-Harmonics
+
+Primary data sources:
+- IceCube HESE 7.5-year: https://icecube.wisc.edu/data-releases/
+- Kepler heartbeat stars: Kirk et al. 2016, VizieR J/AJ/151/68
+- Elliptic curves: LMFDB (https://www.lmfdb.org/)
 
 References
 
