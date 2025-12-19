@@ -61,6 +61,9 @@ We analyzed 336,516 neutrino events from the IceCube IC40 public dataset using t
 
 Result: D₂ = 1.495 ± 0.144, matching the prediction within 1σ.
 
+![TFA Neutrino Validation](../results/neutrino/kdfa_neutrino_validation.png)
+*Figure 1: Correlation dimension analysis of IceCube neutrino events. The measured D₂ = 1.495 ± 0.144 matches the TFA prediction of 19/13 ≈ 1.46.*
+
 2.2. Super-Kamiokande Mass Validation
 
 From the measured κ ≈ 0.46, the framework predicts atmospheric neutrino mass splitting:
@@ -93,6 +96,12 @@ Cosmological: The electromagnetic fine-tuning precision ∛0.04 = 0.342.
 
 These converge around 1/e = 0.3679.
 
+![IceCube 10-Year D₂ Analysis](../results/neutrino/icecube_10yr_d2_analysis.png)
+*Figure 2: Energy-stratified D₂ analysis across 1.13 million IceCube events. The total sample D₂ = 1.46 ± 0.07 validates the TFA prediction. Energy variation is observational data, not a prediction.*
+
+![IceCube 10-Year Overview](../results/neutrino/icecube_10yr_overview.png)
+*Figure 3: IceCube 10-year point source sample overview showing event distribution across detector seasons and energy ranges.*
+
 3. Stellar Oscillation Validation
 
 3.1. The 456 Harmonic
@@ -115,6 +124,9 @@ Period 456 days: Observed 19, Expected 6.8, Ratio 2.81×, p < 0.0001
 Period 228 days: Observed 24, Expected 9.1, Ratio 2.63×, p < 0.0001
 Period 152 days: Observed 15, Expected 8.4, Ratio 1.79×, p = 0.012
 
+![Period Histogram](../results/stellar/period_histogram_456.png)
+*Figure 4: Stellar oscillation period distribution showing clustering at 456/k day harmonics. The excess at 456 days (2.81× expected) and 228 days (2.63× expected) is statistically significant (p < 0.0001).*
+
 3.3. Amplitude Damping
 
 The framework predicts mode amplitude decay:
@@ -125,6 +137,9 @@ For KOI-54 (Welsh et al. 2011):
 Predicted amplitude at n=1 relative to n=0: 64%
 Observed: 60-65%
 Error: <2%
+
+![Amplitude Damping](../results/stellar/amplitude_damping.png)
+*Figure 5: TFA amplitude damping prediction (blue) compared to KOI-54 observations (black points). The TFA exponent γ = 2 − D₂ = 0.538 provides better agreement than standard exponential or quadratic damping.*
 
 3.4. Solar and Neutrino Periodicities
 
@@ -200,6 +215,9 @@ Zone 3 (κ ≥ 0.65): Pre-transitional — dynamics dominate, cycling behavior e
 Heartbeat stars: κ = 0.167 ± 0.086 (Zone 1, structurally stable)
 Triple stars: κ = 0.446 ± 0.143 (Zone 2, coupled developmental)
 Gaia wide binaries: κ = 0.281 ± 0.003 (Zone 1, structurally stable)
+
+![Zone Structure](../results/stellar/zone_structure.png)
+*Figure 6: TFA zone structure showing system classification by coupling parameter κ. The critical threshold κ* = 1/e ≈ 0.368 separates structural (Zone 1) from generative (Zone 2) regimes. Systems approaching κ = 0.65 exhibit thermal relaxation oscillations.*
 
 5.2.1. Thermal Relaxation Oscillations — Independent Confirmation
 
