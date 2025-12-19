@@ -7,7 +7,7 @@ A Real-Number Coupling Framework with Neutrino and Number-Theoretic Validation
 Jason A. King
 
 Independent Researcher, Missouri, USA
-GitHub: https://github.com/SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
+GitHub: https://github.com/SchoolBusPhysicist/KDFA-Stellar-Harmonics
 
 Received; accepted
 
@@ -73,13 +73,9 @@ Agreement: 2.8% error. This independent measurement validates the S-R decomposit
 
 2.3. ~~OPERA Velocity Constraint~~ [RETRACTED]
 
-> **⚠️ RETRACTION NOTICE (2025-12-17):** The v/c formula below was identified as AI confabulation (Grok AI). The "÷2×1.5" factor has no physical derivation. KDFA predicts κ and D₂, not particle velocities. See docs/CONFABULATION_CORRECTIONS.md
+> **⚠️ RETRACTION**: The v/c formula below was identified as AI confabulation with no first-principles derivation. The arbitrary scaling factor has no physical basis. See CONFABULATION_CORRECTIONS.md.
 
-~~The framework maps D₂ to velocity: D₂ = 1.5 corresponds to v = c.~~ [NO DERIVATION EXISTS]
-
-~~v/c ≈ 1 - (1.5 - D₂)²/(2 × 1.5)~~ [RETRACTED - arbitrary formula]
-
-**Note:** MINOS and OPERA velocity measurements are independent data; they do not validate or falsify the KDFA framework, which makes no velocity predictions.
+~~The framework maps D₂ to velocity~~ [NO DERIVATION EXISTS]
 
 2.4. Discovery of the 0.35 Threshold
 
@@ -193,32 +189,13 @@ All constants derive from first principles. No free parameters.
 
 The coupling parameter defines dynamical regimes:
 
-Zone 1 (κ < 0.35): Structurally stable — gravity/structure dominates, predictable evolution
-Zone 2 (0.35 ≤ κ < 0.65): Coupled developmental — balanced S-R coupling, sustainable change
-Zone 3 (κ ≥ 0.65): Pre-transitional — dynamics dominate, cycling behavior expected
+Zone 1 (κ < 0.35): Stable, bound, crystalline
+Zone 2 (0.35 ≤ κ < 0.65): Generative, life-compatible, optimal
+Zone 3 (κ ≥ 0.65): Chaotic, dissipative, pre-collapse
 
-Heartbeat stars: κ = 0.167 ± 0.086 (Zone 1, structurally stable)
-Triple stars: κ = 0.446 ± 0.143 (Zone 2, coupled developmental)
-Gaia wide binaries: κ = 0.281 ± 0.003 (Zone 1, structurally stable)
-
-5.2.1. Thermal Relaxation Oscillations — Independent Confirmation
-
-The zone structure predicts that systems crossing κ ≈ 0.65 should cycle rather than immediately collapse. This prediction is independently confirmed by the phenomenon of Thermal Relaxation Oscillations (TROs), documented extensively in binary star literature (Lucy 1976; Flannery 1976; Robertson & Eggleton 1977).
-
-Recent simulations (Schutte et al. 2024) show that at the stability boundary, "the mass-transfer rate oscillates by up to three orders of magnitude, with an oscillation period similar to the typical critical thermal timescale." The donors "recover as the mass-transfer rate decreases and the convective part of the outer layers regrows, restarting the cycle anew."
-
-This cycling behavior maps directly to κ dynamics:
-(1) κ crosses 0.65 threshold → dynamics dominate → mass transfer accelerates
-(2) System overshoots → structural response reasserts control
-(3) κ drops back below threshold → donor recovers
-(4) Cycle repeats until permanent transition (merger, common envelope) or stabilization
-
-The TRO phenomenon provides strong independent evidence that the 0.65 threshold represents a real dynamical boundary governing stellar evolution, not merely a convenient parameterization.
-
-Additional cycling evidence:
-- Contact binaries undergo TROs with cycle periods set by secondary's thermal timescale (Lucy 1976)
-- Dwarf novae exhibit outburst cycles from 4 days to 30 years (Coppejans et al. 2016)
-- Mass-transfer systems show oscillations of up to 3 orders of magnitude at stability boundaries (Schutte et al. 2024)
+Heartbeat stars: κ = 0.167 ± 0.086 (Zone 1, stable)
+Triple stars: κ = 0.446 ± 0.143 (Zone 2, generative)
+Gaia wide binaries: κ = 0.281 ± 0.003 (Zone 1, very stable)
 
 5.3. Real Numbers Only
 
@@ -303,3 +280,7 @@ She, Z.S., Leveque, E. 1994, Phys. Rev. Lett., 72, 336
 Sturrock, P.A. 2008, ApJ, 688, L53
 Thompson, S.E., et al. 2012, ApJ, 753, 86
 Welsh, W.F., et al. 2011, ApJS, 197, 4
+
+---
+
+<small>X = n/(3ᵐ) + p/(27q) × (D₂ − 1) &nbsp;&nbsp;&nbsp;&nbsp; KING</small>
