@@ -351,3 +351,7 @@ Thompson, S.E., et al. 2012, ApJ, 753, 86
 Verlinde, E.P. 2010, JHEP, 04, 029
 Verlinde, E.P. 2016, SciPost Physics, 2, 016
 Welsh, W.F., et al. 2011, ApJS, 197, 4
+
+---
+
+<small>X = n/(3ᵐ) + p/(27q) × (D₂ − 1) &nbsp;&nbsp;&nbsp;&nbsp; KING</small>
