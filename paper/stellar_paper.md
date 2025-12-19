@@ -280,7 +280,7 @@ The pattern requires: (1) fluid dynamics with continuous flow, (2) active energy
 
 Data Availability
 
-All analysis scripts and data are available at: https://github.com/SchoolBusPhysicist/KDFA-Stellar-Harmonics
+All analysis scripts and data are available at: https://github.com/SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
 
 Primary data sources:
 - IceCube HESE 7.5-year: https://icecube.wisc.edu/data-releases/
