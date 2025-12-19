@@ -255,5 +255,5 @@ When using these definitions, cite:
 
 ```
 King, J.A. (2025). KDFA Stellar Harmonics Framework.
-GitHub: SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
+GitHub: SchoolBusPhysicist/TFA-Stellar-Harmonics
 ```

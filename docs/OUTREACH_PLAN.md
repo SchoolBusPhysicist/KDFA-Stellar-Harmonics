@@ -286,7 +286,7 @@ Quick version:
 Zero free parameters. All predictions documented before measurement.
 
 Paper: [Zenodo DOI]
-GitHub: https://github.com/SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
+GitHub: https://github.com/SchoolBusPhysicist/TFA-Stellar-Harmonics
 
 I'm not claiming this replaces physics—just that the math works and I can't explain why. Thought it might interest you.
 

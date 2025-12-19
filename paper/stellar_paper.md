@@ -7,7 +7,7 @@ A Real-Number Coupling Framework with Neutrino and Number-Theoretic Validation
 Jason A. King
 
 Independent Researcher, Missouri, USA
-GitHub: https://github.com/SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
+GitHub: https://github.com/SchoolBusPhysicist/TFA-Stellar-Harmonics
 
 Received; accepted
 

@@ -59,7 +59,7 @@ graph TB
 ## Repository Structure
 
 ```
-KING-DFA-Stellar-Harmonics/
+TFA-Stellar-Harmonics/
 ├── paper/
 │   └── stellar_paper.md              # Main paper
 ├── scripts/
@@ -299,7 +299,7 @@ The framework fails if:
          A Real-Number Coupling Framework},
   author={King, Jason A.},
   year={2025},
-  note={GitHub: SchoolBusPhysicist/KING-DFA-Stellar-Harmonics}
+  note={GitHub: SchoolBusPhysicist/TFA-Stellar-Harmonics}
 }
 ```
 
@@ -322,4 +322,4 @@ See [LICENSE](LICENSE) for full terms.
 
 **Jason A. King**
 Independent Researcher, Missouri, USA
-GitHub: https://github.com/SchoolBusPhysicist/KING-DFA-Stellar-Harmonics
+GitHub: https://github.com/SchoolBusPhysicist/TFA-Stellar-Harmonics
