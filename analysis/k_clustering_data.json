@@ -1,0 +1,118 @@
+{
+  "systems": [
+    {
+      "name": "KOI-54",
+      "k": 5,
+      "n_observed": 91.0,
+      "n_predicted": 91.2,
+      "interface_type": "tight_binary_sharp",
+      "error_percent": 0.2,
+      "category": "Very Tight Coupling (k=2-5)"
+    },
+    {
+      "name": "KIC 8164262",
+      "k": 2,
+      "n_observed": 229.0,
+      "n_predicted": 228.0,
+      "interface_type": "very_tight_binary",
+      "error_percent": 0.4,
+      "category": "Very Tight Coupling (k=2-5)"
+    },
+    {
+      "name": "KIC 9535080",
+      "k": 9,
+      "n_observed": 50.0,
+      "n_predicted": 50.666666666666664,
+      "interface_type": "moderate_binary",
+      "error_percent": 1.3,
+      "category": "Sharp Interface (k=6-15)"
+    },
+    {
+      "name": "HD 74423",
+      "k": 33,
+      "n_observed": 13.8,
+      "n_predicted": 13.818181818181818,
+      "interface_type": "sharp_tidal_binary",
+      "error_percent": 1.0,
+      "category": "Moderate Interface (k=16-40)"
+    },
+    {
+      "name": "Jupiter",
+      "k": 112,
+      "n_observed": 4.07,
+      "n_predicted": 4.071428571428571,
+      "interface_type": "diffuse_metallic_H",
+      "error_percent": 0.02,
+      "category": "Diffuse Interface (k=41-150)"
+    },
+    {
+      "name": "Sun",
+      "k": 29,
+      "n_observed": 15.7,
+      "n_predicted": 15.724137931034482,
+      "interface_type": "moderate_convective",
+      "error_percent": 1.3,
+      "category": "Moderate Interface (k=16-40)"
+    },
+    {
+      "name": "Earth-Moon tides",
+      "k": 8,
+      "n_observed": 57.0,
+      "n_predicted": 57.0,
+      "interface_type": "sharp_gravitational",
+      "error_percent": 0.1,
+      "category": "Sharp Interface (k=6-15)"
+    },
+    {
+      "name": "Earth seismic (0S0)",
+      "k": 340,
+      "n_observed": 1.34,
+      "n_predicted": 1.3411764705882352,
+      "interface_type": "very_complex_multilayer",
+      "error_percent": 0.01,
+      "category": "Very Complex (k>150)"
+    }
+  ],
+  "categories": {
+    "Very Tight Coupling (k=2-5)": {
+      "k_range": [
+        2,
+        5
+      ],
+      "description": "Very tight binaries, extreme constraint",
+      "count": 2
+    },
+    "Sharp Interface (k=6-15)": {
+      "k_range": [
+        6,
+        15
+      ],
+      "description": "Sharp gravitational/tidal, discrete pulses",
+      "count": 2
+    },
+    "Moderate Interface (k=16-40)": {
+      "k_range": [
+        16,
+        40
+      ],
+      "description": "Moderate convective, balanced coupling",
+      "count": 2
+    },
+    "Diffuse Interface (k=41-150)": {
+      "k_range": [
+        41,
+        150
+      ],
+      "description": "Diffuse layers, continuous oscillation",
+      "count": 1
+    },
+    "Very Complex (k>150)": {
+      "k_range": [
+        151,
+        1000
+      ],
+      "description": "Multi-layer, highly complex negotiation",
+      "count": 1
+    }
+  }
+}
