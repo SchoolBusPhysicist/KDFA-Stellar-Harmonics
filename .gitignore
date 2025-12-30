@@ -72,6 +72,8 @@ SESSION_*.md
 DISCOVERY_LOG.md
 SESSION_PROGRESS.md
 DATA_SOURCES_LINKS.md
+VERIFICATION_REPORT.md
+RESULTS.md
 
 # Old paper versions (keep in .archive/ only)
 paper/KDFA_stellar_paper_v*.md
